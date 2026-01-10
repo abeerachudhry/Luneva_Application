@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "849451849338",
+    "project_id": "luneva-application",
+    "storage_bucket": "luneva-application.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849451849338:android:e53b08db39a962e816cdc3",
+        "android_client_info": {
+          "package_name": "com.aownrizvi11111.pcoswellness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849451849338-e9n005khftc6h556iepbr9qgahcr6sm3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aownrizvi11111.pcoswellness",
+            "certificate_hash": "f3a5e98351fdcd7cb315b99a726f647f7b051c4d"
+          }
+        },
+        {
+          "client_id": "849451849338-lgc0mdmg1r1lf3hior0r985s994memg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDk-8KGohyl2ErdN4UrGa7kFHk1inUqYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849451849338-lgc0mdmg1r1lf3hior0r985s994memg2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "849451849338-2kad0oe68lof2c18augund38rt95ps1j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lunevaApplication"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849451849338:android:4cc99ae169725cf616cdc3",
+        "android_client_info": {
+          "package_name": "com.example.luneva_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849451849338-lgc0mdmg1r1lf3hior0r985s994memg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDk-8KGohyl2ErdN4UrGa7kFHk1inUqYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849451849338-lgc0mdmg1r1lf3hior0r985s994memg2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "849451849338-2kad0oe68lof2c18augund38rt95ps1j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lunevaApplication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

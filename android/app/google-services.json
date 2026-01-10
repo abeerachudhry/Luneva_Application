@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "849451849338",
+    "project_id": "luneva-application",
+    "storage_bucket": "luneva-application.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849451849338:android:e53b08db39a962e816cdc3",
+        "android_client_info": {
+          "package_name": "com.aownrizvi11111.pcoswellness"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDk-8KGohyl2ErdN4UrGa7kFHk1inUqYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849451849338:android:4cc99ae169725cf616cdc3",
+        "android_client_info": {
+          "package_name": "com.example.luneva_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDk-8KGohyl2ErdN4UrGa7kFHk1inUqYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
