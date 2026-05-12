@@ -122,13 +122,22 @@ flutter run
 
 ## Screenshots
 
-Add application screenshots here.
-
+### User Dashboard
 <img width="802" height="630" alt="UserDashboard" src="https://github.com/user-attachments/assets/19b57182-9946-4402-bbdd-02cb44357b00" />
+
+### Stress Handler Chatbot
 <img width="322" height="347" alt="stressHandler" src="https://github.com/user-attachments/assets/89ed9285-752c-497c-a06a-9923ff5870af" />
+
+### Community Chat With Friends
 <img width="1087" height="556" alt="chatsWithFriends" src="https://github.com/user-attachments/assets/9081a743-376f-48d2-9761-2f5e7483a6b6" />
+
+### Diet Planner
 <img width="707" height="547" alt="dietPlanner" src="https://github.com/user-attachments/assets/0790be05-9b60-41e3-8b04-3b8c1c4bd67f" />
+
+### Fitness Trainer
 <img width="301" height="482" alt="fitnessTrainer" src="https://github.com/user-attachments/assets/acd24afe-c2d4-4429-ac65-39b2576019e4" />
+
+### Personalized Onboarding
 <img width="1252" height="632" alt="Onboarding" src="https://github.com/user-attachments/assets/d4583809-2ffc-4c01-8194-3841e9beb3b0" />
 
 
