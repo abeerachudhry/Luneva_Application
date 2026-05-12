@@ -167,4 +167,4 @@ The goal of Luneva is to create a safe and motivating digital environment where 
 
 ## Author
 
-Abeera Chaudhry
+Abeera Chudhry
